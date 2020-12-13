@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **`JavaScript`, `React Js`, `React Native`.**
 
-- 📫 How to reach me: Felipe Silva
+- 📫 How to reach me: LinkedIn
 <a href="https://linkedin.com/in/felipesilva-1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="felipesilva-1" height="30" width="40" /></a>
 
 
