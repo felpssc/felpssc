@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe!</h1>
 <h3 align="center">A programming enthusiast, Systems Analysis and Development student.</h3>
 
-- 🌱 I’m currently learning **`JavaScript, React Js, React Native`.**
+- 🌱 I’m currently learning **`JavaScript`, `React Js`, `React Native`.**
 
 - 📫 How to reach me: **https://www.linkedin.com/in/felipesilva-1/**
 
