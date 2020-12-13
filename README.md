@@ -7,4 +7,4 @@
 
 - ⚡ Fun fact: **I don't like coffee so much ☕🤷‍♂️**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felpssc&show_icons=true&theme=dark&locale=en&layout=compact" alt="felpssc" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpssc&hide=scss&layout=compact&theme=radical&title_color=2ED3EA" /></p>
