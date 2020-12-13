@@ -3,7 +3,10 @@
 
 - 🌱 I’m currently learning **`JavaScript`, `React Js`, `React Native`.**
 
-- 📫 How to reach me: **[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipesilva-1/)](https://www.linkedin.com/in/felipesilva-1/)**
+- 📫 How to reach me: **<p align="left">Felipe Silva
+<a href="https://linkedin.com/in/felipesilva-1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="felipesilva-1" height="30" width="40" /></a>
+</p>**
+
 
 - ⚡ Fun fact: **I don't like coffee so much ☕🤷‍♂️**
 
