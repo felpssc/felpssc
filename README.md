@@ -25,8 +25,6 @@
 
 <img style="margin: 0 2px 0 2px" align="left" alt="css3" width="176px" src="https://img.shields.io/badge/-javascript-20232A?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=gray" />
 
-<br>
-<br>
 
 <img style="margin: 0 2px 0 2px" align="left" alt="css3" width="116px" src="https://img.shields.io/badge/-node-20232A?style=for-the-badge&logo=node.js&logoColor=green&labelColor=gray" />
 
@@ -36,7 +34,6 @@
 
 <img style="margin: 0 2px 0 2px" alt="css3" width="176px" src="https://img.shields.io/badge/-typescript-20232A?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=gray" />
 
-<br>
 
 <img style="margin: 0 2px 0 2px" align="left" alt="css3" width="125px" src="https://img.shields.io/badge/-mysql-20232A?style=for-the-badge&logo=mysql&logoColor=white&labelColor=gray" />
 
