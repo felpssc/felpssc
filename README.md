@@ -1,5 +1,5 @@
 # Felipe Silva 👋 
-<img style="border-radius: 50%" align="right" width="350" height="350" src="./dev.gif">
+<img style="border-radius: 350px" align="right" width="350" height="350" src="./dev.gif">
 :computer: Front-End, Back-End e Mobile Developer | Análise e Desenvolvimento de Sistemas - UNESA
 
 ## Sobre:
