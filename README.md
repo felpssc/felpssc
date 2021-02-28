@@ -12,7 +12,7 @@
 ## Contato:
 
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=gray/)](https://www.linkedin.com/in/felipesilva-1/)
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=linkedin&logoColor=white&label&link=carlosfelipesilva.fs@gmail.com)](mailto:carlosfelipesilva.fs@gmail.com)
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&label&link=carlosfelipesilva.fs@gmail.com)](mailto:carlosfelipesilva.fs@gmail.com)
 
 ## Tecnologias:
 
