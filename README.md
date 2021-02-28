@@ -25,7 +25,6 @@
 
 <img style="margin: 0 2px 0 2px" align="left" alt="css3" width="176px" src="https://img.shields.io/badge/-javascript-20232A?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=gray" />
 
-
 <img style="margin: 0 2px 0 2px" align="left" alt="css3" width="116px" src="https://img.shields.io/badge/-node-20232A?style=for-the-badge&logo=node.js&logoColor=green&labelColor=gray" />
 
 <img style="margin: 0 2px 0 2px" align="left" alt="css3" width="123px" src="https://img.shields.io/badge/-react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=gray" />
@@ -33,7 +32,6 @@
 <img style="margin: 0 2px 0 2px" align="left" alt="css3" width="195px" src="https://img.shields.io/badge/-react native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=gray" />
 
 <img style="margin: 0 2px 0 2px" alt="css3" width="176px" src="https://img.shields.io/badge/-typescript-20232A?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=gray" />
-
 
 <img style="margin: 0 2px 0 2px" align="left" alt="css3" width="125px" src="https://img.shields.io/badge/-mysql-20232A?style=for-the-badge&logo=mysql&logoColor=white&labelColor=gray" />
 
