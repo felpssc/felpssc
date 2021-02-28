@@ -6,7 +6,7 @@
 • Apaixonado por tecnologias web e mobile. <br/>
 • Atualmente tenho como foco de estudo `React`, ` React Native` e `Node.js`, mas sempre aberto à mudanças e novos conhecimentos!<br/>
 • Trabalhando em projetos pessoais 👨‍💻.<br/>
-• Vontade e foco para aprender e evoluir profissionalmente é o que jamais falta 💪.<br/>
+• Vontade de aprender e estar em constante evolução pessoal e profissionalmente é o que jamais falta 💪.<br/>
 • Fun fact: Eu não gosto tanto de café ☕️🤷‍♂️.
 
 ## Contato:
