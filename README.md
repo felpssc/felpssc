@@ -1,12 +1,47 @@
-<h1 align="center">Hi 👋, I'm Felipe!</h1>
-<h3 align="center">A programming enthusiast, Systems Analysis and Development student.</h3>
+# Felipe Silva 👋 
+<img style="margin-top:55px" align="right" width="350" src="./dev.gif">
+:computer: Front-End, Back-End e Mobile Developer | Análise e Desenvolvimento de Sistemas - UNESA
 
-- 🌱 I’m currently learning **`JavaScript`, `React Js`, `React Native`, `Node.js`.**
+## Sobre:
+• Apaixonado por tecnologias web e mobile. <br/>
+• Atualmente tenho como foco de estudo `React`, ` React Native` e `Node.js`, mas sempre aberto à mudanças e novos conhecimentos!<br/>
+• Trabalhando em projetos pessoais 👨‍💻.<br/>
+• Vontade e foco para aprender e evoluir profissionalmente é o que jamais falta 💪.<br/>
+• Fun fact: Eu não gosto tanto de café ☕️🤷‍♂️.
 
-- 📫 How to reach me:
-<a href="https://linkedin.com/in/felipesilva-1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="felipesilva-1" height="30" width="40" /></a>
+<br>
 
+## Contato:
 
-- ⚡ Fun fact: **I don't like coffee so much ☕🤷‍♂️**
+ [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=gray/)](https://www.linkedin.com/in/felipesilva-1/)
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=linkedin&logoColor=white&label&link=carlosfelipesilva.fs@gmail.com)](mailto:carlosfelipesilva.fs@gmail.com)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpssc&hide=scss&layout=compact&theme=radical&title_color=2ED3EA" /></p>
+<br>
+
+## Tecnologias:
+
+<img style="margin: 0 2px 0 2px" align="left" alt="html5" width="125px" src="https://img.shields.io/badge/-html5-20232A?style=for-the-badge&logo=html5&logoColor=red&labelColor=gray" alt="html5" />
+<img style="margin: 0 2px 0 2px" align="left" alt="css3" width="112px" src="https://img.shields.io/badge/-CSS3-20232A?style=for-the-badge&logo=css3&logoColor=blue&labelColor=gray" />
+
+<img style="margin: 0 2px 0 2px" align="left" alt="css3" width="176px" src="https://img.shields.io/badge/-javascript-20232A?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=gray" />
+
+<br>
+<br>
+
+<img style="margin: 0 2px 0 2px" align="left" alt="css3" width="116px" src="https://img.shields.io/badge/-node-20232A?style=for-the-badge&logo=node.js&logoColor=green&labelColor=gray" />
+
+<img style="margin: 0 2px 0 2px" align="left" alt="css3" width="123px" src="https://img.shields.io/badge/-react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=gray" />
+
+<img style="margin: 0 2px 0 2px" align="left" alt="css3" width="195px" src="https://img.shields.io/badge/-react native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=gray" />
+
+<img style="margin: 0 2px 0 2px" alt="css3" width="176px" src="https://img.shields.io/badge/-typescript-20232A?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=gray" />
+
+<br>
+
+<img style="margin: 0 2px 0 2px" align="left" alt="css3" width="125px" src="https://img.shields.io/badge/-mysql-20232A?style=for-the-badge&logo=mysql&logoColor=white&labelColor=gray" />
+
+<img style="margin: 0 2px 0 2px" align="left" alt="css3" width="184.5px" src="https://img.shields.io/badge/-postgresql-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB&labelColor=gray" />
+
+<img style="margin: 0 2px 0 2px" align="left" alt="css3" width="125px" src="https://img.shields.io/badge/-linux-20232A?style=for-the-badge&logo=linux&logoColor=20232A&labelColor=gray" />
+
+<img style="margin: 0 2px 0 2px" align="left" alt="css3" width="160px" src="https://img.shields.io/badge/-windows-20232A?style=for-the-badge&logo=windows&logoColor=61DAFB&labelColor=gray" />
