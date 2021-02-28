@@ -29,12 +29,11 @@
 
 <img style="margin: 0 2px 0 2px" align="left" alt="react" width="123px" src="https://img.shields.io/badge/-react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=gray" />
 
+<br>
+<br>
+
+
 <img style="margin: 0 2px 0 2px" align="left" alt="react-native" width="195px" src="https://img.shields.io/badge/-react native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=gray" />
-
-
-<br>
-<br>
-
 
 <img style="margin: 0 2px 0 2px" alt="typescript" width="176px" src="https://img.shields.io/badge/-typescript-20232A?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=gray" />
 
