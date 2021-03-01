@@ -36,6 +36,4 @@
 
   <img alt="linux" width="125px" src="https://img.shields.io/badge/-linux-20232A?style=for-the-badge&logo=linux&logoColor=20232A&labelColor=gray" />
 
-  <img alt="windows" width="160px" src="https://img.shields.io/badge/-windows-20232A?style=for-the-badge&logo=windows&logoColor=61DAFB&labelColor=gray" />
-
 </div>
