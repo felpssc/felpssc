@@ -1,6 +1,6 @@
 # Felipe Silva 👋 
 <img align="right" width="350" src="./dev.gif">
-:computer: Front-End, Back-End e Mobile Developer | Análise e Desenvolvimento de Sistemas - UNESA
+:computer: FullStack Developer | Análise e Desenvolvimento de Sistemas - UNESA
 
 ## Sobre:
 • Apaixonado por tecnologias web e mobile. <br/>
