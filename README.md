@@ -4,14 +4,15 @@
 <br>
 
 • Focado em Back-end com Node.js<br/> 
-• Atualmente tenho como foco de estudo e trabalho `Node` e `React`, mas sempre aberto à novos conhecimentos!<br/>
+• Em constante aprendizado 🎯<br/> 
+• Dev Back-end na <a href="https://meza.digital/">Meza Digital<br/> 
 
 ### Contato:
 
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=gray/)](https://www.linkedin.com/in/felipesilva-1/)
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&label&link=carlosfelipesilva.fs@gmail.com)](mailto:carlosfelipesilva.fs@gmail.com)
 
-### Tecnologias/Ferramentas que utilizo projetos pessoais e trabalho:
+### Tecnologias/Ferramentas que utilizo em projetos pessoais e trabalho:
 
 ![Typescript](https://img.shields.io/badge/-typescript-20232A?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=gray)
 ![Node](https://img.shields.io/badge/-node-20232A?style=for-the-badge&logo=node.js&logoColor=green&labelColor=gray)
