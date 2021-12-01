@@ -1,39 +1,27 @@
-# Felipe Silva 👋 
-<img align="right" width="350" src="./dev.gif">
-:computer: FullStack Developer | Análise e Desenvolvimento de Sistemas - UNESA
+## Olá! Felipe Silva aqui.
+:computer: Desenvolvedor JavaScript ;)
 
-## Sobre:
-• Apaixonado por tecnologias web e mobile. <br/>
-• Atualmente tenho como foco de estudo e trabalho `React`, ` React Native` e `Node.js`, mas sempre aberto à novos conhecimentos!<br/>
-• Trabalhando em projetos pessoais 👨‍💻.<br/>
-• Vontade de aprender e estar em constante evolução pessoal e profissional é o que jamais falta 💪.<br/>
-• Fun fact: Eu não gosto tanto de café ☕️🤷‍♂️.
+<br>
 
-## Contato:
+• Focado em Back-end com Node.js<br/> 
+• Atualmente tenho como foco de estudo e trabalho `Node` e `React`, mas sempre aberto à novos conhecimentos!<br/>
+
+### Contato:
 
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=gray/)](https://www.linkedin.com/in/felipesilva-1/)
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&label&link=carlosfelipesilva.fs@gmail.com)](mailto:carlosfelipesilva.fs@gmail.com)
 
-## Tecnologias:
+### Tecnologias/Ferramentas que utilizo projetos pessoais e trabalho:
 
-<div style="display:flex;">
-  <img alt="html5" width="125px" src="https://img.shields.io/badge/-html5-20232A?style=for-the-badge&logo=html5&logoColor=red&labelColor=gray" alt="html5" />
-  <img alt="css3" width="112px" src="https://img.shields.io/badge/-CSS3-20232A?style=for-the-badge&logo=css3&logoColor=blue&labelColor=gray" />
-
-  <img alt="javascript" width="176px" src="https://img.shields.io/badge/-javascript-20232A?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=gray" />
-
-  <img alt="node" width="116px" src="https://img.shields.io/badge/-node-20232A?style=for-the-badge&logo=node.js&logoColor=green&labelColor=gray" />
-
-  <img alt="react" width="123px" src="https://img.shields.io/badge/-react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=gray" />
-
-  <img alt="react-native" width="195px" src="https://img.shields.io/badge/-react native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=gray" />
-
-  <img alt="typescript" width="176px" src="https://img.shields.io/badge/-typescript-20232A?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=gray" />
-
-  <img alt="mysql" width="125px" src="https://img.shields.io/badge/-mysql-20232A?style=for-the-badge&logo=mysql&logoColor=white&labelColor=gray" />
-
-  <img alt="postgresql" width="184.5px" src="https://img.shields.io/badge/-postgresql-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB&labelColor=gray" />
-
-  <img alt="linux" width="125px" src="https://img.shields.io/badge/-linux-20232A?style=for-the-badge&logo=linux&logoColor=20232A&labelColor=gray" />
-
-</div>
+![Typescript](https://img.shields.io/badge/-typescript-20232A?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=gray)
+![Node](https://img.shields.io/badge/-node-20232A?style=for-the-badge&logo=node.js&logoColor=green&labelColor=gray)
+![Express](https://img.shields.io/badge/-express-20232A?style=for-the-badge&logo=express&logoColor=green&labelColor=gray)
+![Jest](https://img.shields.io/badge/-jest-20232A?style=for-the-badge&logo=jest&logoColor=violet&labelColor=gray)
+![GraphQl](https://img.shields.io/badge/-graphql-20232A?style=for-the-badge&logo=graphql&logoColor=red&labelColor=gray)
+![Docker](https://img.shields.io/badge/-Docker-20232A?style=for-the-badge&logo=docker&logoColor=blue&labelColor=gray)
+![MongoDB](https://img.shields.io/badge/-mongodb-20232A?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=gray)
+![Git](https://img.shields.io/badge/-git-20232A?style=for-the-badge&logo=git&logoColor=red&labelColor=gray)
+![React](https://img.shields.io/badge/-react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=gray)
+![Postgres](https://img.shields.io/badge/-postgresql-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB&labelColor=gray)
+![MySQL](https://img.shields.io/badge/-mysql-20232A?style=for-the-badge&logo=mysql&logoColor=blue&labelColor=gray)
+![Linux](https://img.shields.io/badge/-linux-20232A?style=for-the-badge&logo=linux&logoColor=white&labelColor=gray)
