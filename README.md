@@ -1,18 +1,18 @@
-## Olá! Felipe Silva aqui.
-:computer: Desenvolvedor JavaScript ;)
+## Hi! I'm Felipe.
+:computer: Back-end Developer
 
 <br>
 
-• Focado em Back-end com Node.js<br/> 
-• Em constante aprendizado 🎯<br/> 
-• Dev Back-end na <a href="https://meza.digital/">Meza Digital<br/> 
+• Focused on backend development<br/> 
+• In constant learning 🎯<br/> 
+• I'm currently working with NodeJS at <a href="https://meza.digital/">Meza Digital<br/> 
 
-### Contato:
+### Contact:
 
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=gray/)](https://www.linkedin.com/in/felipesilva-1/)
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&label&link=carlosfelipesilva.fs@gmail.com)](mailto:carlosfelipesilva.fs@gmail.com)
 
-### Tecnologias/Ferramentas que utilizo em projetos pessoais e trabalho:
+### Work and study tools:
 
 ![Typescript](https://img.shields.io/badge/-typescript-20232A?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=gray)
 ![Node](https://img.shields.io/badge/-node-20232A?style=for-the-badge&logo=node.js&logoColor=green&labelColor=gray)
