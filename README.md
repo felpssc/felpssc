@@ -5,7 +5,7 @@
 
 • Focused on backend development<br/> 
 • In constant learning 🎯<br/> 
-• I'm currently working with NodeJS at <a href="https://meza.digital/">Meza Digital<br/> 
+• I'm currently working with NodeJS at <a href="https://www.linkapi.solutions/">LinkApi Solutions<br/> 
 
 ### Contact:
 
