@@ -1,28 +1,45 @@
-## Hi! I'm Felipe.
-:computer: Back-end Developer
+<h2 align="left">Hey! What's up?</h2>
 
-<br>
+###
+<p align="left">My name is Felipe and I'm a Backend Developer 💻, from Sergipe, Brazil.</p>
 
-• Focused on backend development<br/> 
-• In constant learning 🎯<br/> 
-• I'm currently working with NodeJS at <a href="https://www.linkapi.solutions/">LinkApi Solutions<br/> 
+###
+<p align="left">- ❤️‍🔥 Passionate about tech and programming since I was 16<br><br>- 🌱 I'm currently learning about clean architecture and microservices<br><br>- 🔭 I'm a Backend Analyst - Node.js working at LinkApi Solutions in Brazil</p>
 
-### Contact:
+###
+<h3 align="left">Let's talk?</h3>
 
- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=gray/)](https://www.linkedin.com/in/felipesilva-1/)
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&label&link=carlosfelipesilva.fs@gmail.com)](mailto:carlosfelipesilva.fs@gmail.com)
+###
+<div align="left">
+  <a href="https://www.linkedin.com/in/felipesilva-1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:carlosfelipesilva.fs@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-### Work and study tools:
+###
+<h3 align="left">I usually work with:</h3>
 
-![Typescript](https://img.shields.io/badge/-typescript-20232A?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=gray)
-![Node](https://img.shields.io/badge/-node-20232A?style=for-the-badge&logo=node.js&logoColor=green&labelColor=gray)
-![Express](https://img.shields.io/badge/-express-20232A?style=for-the-badge&logo=express&logoColor=green&labelColor=gray)
-![Jest](https://img.shields.io/badge/-jest-20232A?style=for-the-badge&logo=jest&logoColor=violet&labelColor=gray)
-![GraphQl](https://img.shields.io/badge/-graphql-20232A?style=for-the-badge&logo=graphql&logoColor=red&labelColor=gray)
-![Docker](https://img.shields.io/badge/-Docker-20232A?style=for-the-badge&logo=docker&logoColor=blue&labelColor=gray)
-![MongoDB](https://img.shields.io/badge/-mongodb-20232A?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=gray)
-![Git](https://img.shields.io/badge/-git-20232A?style=for-the-badge&logo=git&logoColor=red&labelColor=gray)
-![React](https://img.shields.io/badge/-react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=gray)
-![Postgres](https://img.shields.io/badge/-postgresql-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB&labelColor=gray)
-![MySQL](https://img.shields.io/badge/-mysql-20232A?style=for-the-badge&logo=mysql&logoColor=blue&labelColor=gray)
-![Linux](https://img.shields.io/badge/-linux-20232A?style=for-the-badge&logo=linux&logoColor=white&labelColor=gray)
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+</div>
+
+###
