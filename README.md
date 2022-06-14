@@ -4,7 +4,7 @@
 <p align="left">My name is Felipe and I'm a Backend Developer 💻, from Sergipe, Brazil.</p>
 
 ###
-<p align="left">- ❤️‍🔥 Passionate about tech and programming since I was 16<br><br>- 🌱 I'm currently learning about clean architecture and microservices<br><br>- 🔭 I'm a Backend Analyst - Node.js working at LinkApi Solutions in Brazil</p>
+<p align="left">• ❤️‍🔥 Passionate about tech and programming since I was 16<br><br>• 🌱 I'm currently learning about clean architecture and microservices<br><br>• 🔭 I'm a Backend Analyst - Node.js working at LinkApi Solutions in Brazil</p>
 
 ###
 <h3 align="left">Let's talk?</h3>
@@ -39,7 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
 
 ###
