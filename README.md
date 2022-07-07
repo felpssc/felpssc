@@ -4,7 +4,7 @@
 <p align="left">My name is Felipe and I'm a Backend Developer 💻, from Sergipe, Brazil.</p>
 
 ###
-<p align="left">• ❤️‍🔥 Passionate about tech and programming since I was 16<br><br>• 🌱 I'm currently learning about clean architecture and microservices<br><br>• 🔭 I'm a Backend Analyst - Node.js working at <a href="https://en.semantix.ai/">Semantix</a> in Brazil</p>
+<p align="left">• ❤️‍🔥 Passionate about tech and programming since I was 16<br><br>• 🌱 I'm currently learning about clean architecture and microservices<br><br>• 🔭 I'm a Backend Engineer - Node.js working at <a href="https://en.semantix.ai/">Semantix</a> in Brazil</p>
 
 ###
 <h3 align="left">Let's talk?</h3>
