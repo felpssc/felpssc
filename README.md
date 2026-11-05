@@ -1,45 +1,56 @@
-<h2 align="left">Hey! What's up?</h2>
+<h2 align="left">Hey, I'm Felipe 👋</h2>
 
-###
-<p align="left">My name is Felipe and I'm a Backend Developer 💻, from Sergipe, Brazil.</p>
+<p align="left">
+  <strong>Software Engineer</strong> · Sergipe, Brazil 🇧🇷
+</p>
 
-###
-<p align="left">• ❤️‍🔥 Passionate about tech and programming<br><br>• 🌱 I'm currently learning about clean architecture and microsservices<br><br>• 🔭 I'm a Backend Engineer - Node.js working at <a href="https://en.semantix.ai/">Semantix</a> in Brazil</p>
+<p align="left">
+  I enjoy turning complex problems into well-designed software solutions.
+  <br />
+  My interests lie in software architecture, domain modeling, distributed systems,
+  and building scalable, reliable solutions aligned with real business needs.
+</p>
 
-###
-<h3 align="left">Let's talk?</h3>
+<br />
 
-###
+<h3 align="left">Engineering interests</h3>
+
+<p align="left">
+  <strong>Software Architecture</strong> — designing maintainable and scalable systems
+  <br /><br />
+  <strong>System Design</strong> — distributed systems, integrations, and event-driven architectures
+  <br /><br />
+  <strong>Domain Modeling</strong> — translating business requirements into software solutions
+  <br /><br />
+  <strong>Cloud & Infrastructure</strong> — building resilient and efficient systems
+  <br /><br />
+  <strong>AI-assisted Engineering</strong> — exploring new ways to design, build, and evolve software
+</p>
+
+<br />
+
+<h3 align="left">Beyond engineering</h3>
+
+<p align="left">
+  Always curious about how technology, human behavior, and business intersect.
+  I enjoy learning, questioning established approaches, and finding better ways to solve problems.
+</p>
+
+<br />
+
+<h3 align="left">Let's connect</h3>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/felipesilva-1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
-  <a href="mailto:carlosfelipesilva.fs@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:carlosfelipesilva.fs@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </div>
-
-###
-<h3 align="left">I usually work with:</h3>
-
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" alt="golang logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-</div>
-
-###
