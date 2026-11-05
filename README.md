@@ -1,46 +1,41 @@
 <h2 align="left">Hey, I'm Felipe 👋</h2>
 
 <p align="left">
-  <strong>Software Engineer</strong> · Sergipe, Brazil 🇧🇷
+  💻 <strong>Software Engineer</strong> · Sergipe, Brazil 🇧🇷
 </p>
 
 <p align="left">
-  I enjoy turning complex problems into well-designed software solutions.
-  <br />
-  My interests lie in software architecture, domain modeling, distributed systems,
-  and building scalable, reliable solutions aligned with real business needs.
+  Curious by nature, always interested in understanding how things work
+  and turning complex problems into meaningful solutions.
 </p>
 
 <br />
 
-<h3 align="left">Engineering interests</h3>
+<h3 align="left">🧠 What I'm curious about</h3>
 
-<p align="left">
-  <strong>Software Architecture</strong> — designing maintainable and scalable systems
-  <br /><br />
-  <strong>System Design</strong> — distributed systems, integrations, and event-driven architectures
-  <br /><br />
-  <strong>Domain Modeling</strong> — translating business requirements into software solutions
-  <br /><br />
-  <strong>Cloud & Infrastructure</strong> — building resilient and efficient systems
-  <br /><br />
-  <strong>AI-assisted Engineering</strong> — exploring new ways to design, build, and evolve software
-</p>
+<ul>
+  <li>🏗️ Software architecture, system design, and domain modeling</li>
+  <li>🔗 Distributed systems, integrations, and scalability</li>
+  <li>☁️ Cloud infrastructure and system reliability</li>
+  <li>🤖 AI enthusiast, particularly interested in AI-assisted development and Claude Code</li>
+</ul>
 
 <br />
 
-<h3 align="left">Beyond engineering</h3>
+<h3 align="left">🌎 Beyond the Code</h3>
 
-<p align="left">
-  Always curious about how technology, human behavior, and business intersect.
-  I enjoy learning, questioning established approaches, and finding better ways to solve problems.
-</p>
+<ul>
+  <li>✈️ Traveling and exploring new places, especially beach destinations</li>
+  <li>🎬 Science fiction movies and fictional universes</li>
+  <li>🎮 Simulation games</li>
+  <li>📚 Reading and exploring psychology and neuroscience</li>
+</ul>
 
 <br />
 
-<h3 align="left">Let's connect</h3>
+<h3 align="left">🤝 Let's connect</h3>
 
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/felipesilva-1/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
@@ -53,4 +48,4 @@
       alt="Email"
     />
   </a>
-</div>
+</p>
